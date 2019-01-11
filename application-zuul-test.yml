@@ -2,7 +2,7 @@ server:
   port: 4399
 spring:
   application:
-    name: aigou-zuul-gateway-test
+    name: yigou-zuul-gateway-test
 eureka:
   client:
     service-url:
